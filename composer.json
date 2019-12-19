@@ -1,5 +1,5 @@
 {
-  "name": "tanmuhittin/laravel-google-translate",
+  "name": "brunoferreiras/laravel-google-translate",
   "description": "Translate translation files to other languages using google translate api",
   "require": {
     "illuminate/console": ">=5.1",
